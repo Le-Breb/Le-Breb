@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently developping an operating system as well as a Deep Learning library.
 
-- 🤩 I'm interested in low level programming an IA.
+- 🤩 I'm interested in low level programming and IA.
 - 🏠 Don't hesitate to drop me a **👋** on my [Discord](https://discordapp.com/users/Le_Breb)
 <!--Intro end-->
 
