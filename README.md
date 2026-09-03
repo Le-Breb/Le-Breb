@@ -59,7 +59,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,c,cs,unity,idea,qt,ocaml,discord,cmake,postgres,github,java,js,linux,py,clion,rider,vscode,pycharm,visualstudio&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,c,cs,unity,idea,cloudflare,qt,ocaml,discord,cmake,postgres,github,java,js,linux,py,clion,rider,vscode,pycharm,visualstudio&perline=14" />
   </a>
 </p>
 
